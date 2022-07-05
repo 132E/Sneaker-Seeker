@@ -55,4 +55,6 @@ Link: [Figma Wireframe](https://www.figma.com/file/lRO4stZxSPzF7AM9daL66e/Sneake
 
 [Trello Board](https://trello.com/b/UkAEGCos/sneaker-seeker)
 
-[The Sneaker Database](https://thesneakerdatabase.com/api) 
+[The Sneaker Database](https://thesneakerdatabase.com/api)
+
+[Sneaker Database](https://github.com/druv5319/Sneaks-API)
