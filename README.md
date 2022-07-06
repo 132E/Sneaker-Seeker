@@ -1,4 +1,4 @@
-# Project Title
+# Provecho
 
 ## Date: 7/04/2022
 
@@ -10,7 +10,7 @@
 
 #### **_Description_**
 
-Make a site for people that like shoes
+Make a site for people to search for recipes
 
 ---
 
@@ -34,7 +34,7 @@ Make a site for people that like shoes
 
 Link: [Figma Wireframe](https://www.figma.com/file/lRO4stZxSPzF7AM9daL66e/Sneaker-Seeker-wireframe?node-id=0%3A1)
 
-![Image](https://i.imgur.com/iQaV0oB.png)
+![Image](https://i.imgur.com/KNsOLvH.png)
 
 ---
 
@@ -43,8 +43,8 @@ Link: [Figma Wireframe](https://www.figma.com/file/lRO4stZxSPzF7AM9daL66e/Sneake
 - [x] Wireframe
 - [x] Trello
 - [x] GitHub Repo
-- [ ] HTML
-- [ ] CSS
+- [x] HTML
+- [x] CSS
 - [ ] JS
 - [ ] MVP
 - [ ] Launch
@@ -55,6 +55,6 @@ Link: [Figma Wireframe](https://www.figma.com/file/lRO4stZxSPzF7AM9daL66e/Sneake
 
 [Trello Board](https://trello.com/b/UkAEGCos/sneaker-seeker)
 
-[The Sneaker Database](https://thesneakerdatabase.com/api)
+[Meal Database](https://www.themealdb.com/)
 
-[Sneaker Database](https://github.com/druv5319/Sneaks-API)
+[Build Ref](https://www.youtube.com/watch?v=x8EY0BlhPGk)
