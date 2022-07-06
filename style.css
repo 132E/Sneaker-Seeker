@@ -10,10 +10,11 @@ img{
     width: 100%;
     height: 100%;
     object-fit: cover;
+
 }
 
 html{
-    font-family: Campaign;
+    font-family: "Campaign";
     font-size: 12px;
 }
 section{
@@ -23,7 +24,7 @@ section{
     align-items: center;
     justify-content: center;
     padding: 100px 0;
-    background-color: whitesmoke;
+    background-color: rgb(246, 243, 227);
 }
 
 .container{
@@ -47,10 +48,41 @@ form{
 }
 
 form input{
-    width: 100%;
+    width:80%;
     padding: 10px;
     border-color: #f15f6a;
     border-radius: 4px;
     font-size: 2rem;
     display: inline-block;
+}
+
+button {
+    padding: 10px;
+    font-size: 2rem;
+    border-color: #f15f6a;
+    border-radius: 4px;
+    background-color: #f15f6a;
+    color: whitesmoke;
+}
+
+.search-result{
+    margin-top: 50px;
+    width: 100%;
+    display: grid;
+    grid-gap: 25px;
+    grid-template: auto / repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.item{
+    width: 100%;
+    border-radius: 8px;
+    background-color: rgb(255, 255, 255);
+    padding: 15px;
+    overflow: hidden;
+}
+
+.item img{
+    width: 100%;
+    height: 300px;
+    border-radius: 4px;
 }
