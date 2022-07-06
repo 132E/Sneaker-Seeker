@@ -14,7 +14,8 @@ searchForm.addEventListener("submit", (e) => {
 });
 
 async function fetchAPI() {
-  const baseURL = `www.themealdb.com/api/json/v1/1/search.php?s=Chicken&api_id=${API_ID}&api_key=${API_key}`;
+  const baseURL = `https://www.themealdb.com/api/json/v1/1/search.php?s=chicken&api_id=${API_ID}&api_key=${API_key}`;
   const response = await fetch(baseURL);
-  console.log(response);
+  const data = await response.json();
+  console.log(data);
 }
